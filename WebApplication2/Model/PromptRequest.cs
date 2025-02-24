@@ -2,6 +2,8 @@
 {
     public class PromptRequest
     {
-        public string Prompt { get; set; }
+        public string UserPrompt { get; set; }
+       
+
     }
 }
