@@ -1,2 +1,2 @@
 # gemini.Net
-Solution simple pour intégrer Gemini AI à travers une API développée en .NET. 
+Solution complète pour intégrer Gemini AI à travers une API développée en .NET. 
