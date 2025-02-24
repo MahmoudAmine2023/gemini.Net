@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "WebApplication2.Controllers.GeminiController",
+    "Method": "GenerateResponse",
+    "RelativePath": "Gemini/generate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "WebApplication2.Controllers.UserPromptRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

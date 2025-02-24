@@ -7,7 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 // MET TA CLÉ API
-string apiKey = "";
+string apiKey = "AIzaSyA1PGOYqri4zxuVXQYwRQmMmWknG9gAPiI";
 builder.Services.AddEndpointsApiExplorer();
 // AJOUTER LE SINGLETON AU SERVICE 
 builder.Services.AddSingleton(new GeminiApiClient(apiKey));
