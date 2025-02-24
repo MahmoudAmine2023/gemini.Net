@@ -9,7 +9,7 @@ namespace WebApplication2.Controllers
     [Route("[controller]")]
     public class GeminiController : ControllerBase
     {
-        private readonly string _apiKey = "AIzaSyA1PGOYqri4zxuVXQYwRQmMmWknG9gAPiI"; // Store securely in appsettings or env variables
+        private readonly string _apiKey = ""; // Store securely in appsettings or env variables
 
         [HttpPost("generate")]
         public async Task<IActionResult> GenerateResponse([FromBody] UserPromptRequest request)

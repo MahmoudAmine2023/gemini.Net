@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\mahmo\\Desktop\\gemini.Net\\WebApplication2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE63D567-DEE3-4112-B8D0-12E20C6713A8}|WebApplication2.csproj|c:\\users\\mahmo\\desktop\\gemini.net\\webapplication2\\controllers\\geminiaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE63D567-DEE3-4112-B8D0-12E20C6713A8}|WebApplication2.csproj|solutionrelative:controllers\\geminiaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AE63D567-DEE3-4112-B8D0-12E20C6713A8}|WebApplication2.csproj|c:\\users\\mahmo\\desktop\\gemini.net\\webapplication2\\client\\geminiapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE63D567-DEE3-4112-B8D0-12E20C6713A8}|WebApplication2.csproj|solutionrelative:client\\geminiapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE63D567-DEE3-4112-B8D0-12E20C6713A8}|WebApplication2.csproj|c:\\users\\mahmo\\desktop\\gemini.net\\webapplication2\\controllers\\geminiaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE63D567-DEE3-4112-B8D0-12E20C6713A8}|WebApplication2.csproj|solutionrelative:controllers\\geminiaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE63D567-DEE3-4112-B8D0-12E20C6713A8}|WebApplication2.csproj|c:\\users\\mahmo\\desktop\\gemini.net\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,21 +42,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\mahmo\\Desktop\\gemini.Net\\WebApplication2\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\mahmo\\Desktop\\gemini.Net\\WebApplication2\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-23T19:25:00.181Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 5,
@@ -67,8 +54,7 @@
               "RelativeToolTip": "WebApplication2.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-02-23T19:20:10.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T19:20:10.957Z"
             },
             {
               "$type": "Document",
@@ -78,20 +64,19 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\mahmo\\Desktop\\gemini.Net\\WebApplication2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T22:16:34.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T22:16:34.236Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "GeminiApiClient.cs",
               "DocumentMoniker": "C:\\Users\\mahmo\\Desktop\\gemini.Net\\WebApplication2\\Client\\GeminiApiClient.cs",
               "RelativeDocumentMoniker": "Client\\GeminiApiClient.cs",
               "ToolTip": "C:\\Users\\mahmo\\Desktop\\gemini.Net\\WebApplication2\\Client\\GeminiApiClient.cs",
               "RelativeToolTip": "Client\\GeminiApiClient.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAkwCsAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T22:14:33.316Z",
               "EditorCaption": ""
@@ -106,8 +91,7 @@
               "RelativeToolTip": "Model\\PromptRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T22:05:07.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T22:05:07.36Z"
             },
             {
               "$type": "Document",
@@ -119,8 +103,7 @@
               "RelativeToolTip": "Model\\ContentResponse.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T22:03:56.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T22:03:56.237Z"
             },
             {
               "$type": "Document",
@@ -132,21 +115,32 @@
               "RelativeToolTip": "Model\\ContentRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T22:03:16.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T22:03:16.095Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GeminiAIController.cs",
               "DocumentMoniker": "C:\\Users\\mahmo\\Desktop\\gemini.Net\\WebApplication2\\Controllers\\GeminiAIController.cs",
               "RelativeDocumentMoniker": "Controllers\\GeminiAIController.cs",
               "ToolTip": "C:\\Users\\mahmo\\Desktop\\gemini.Net\\WebApplication2\\Controllers\\GeminiAIController.cs",
               "RelativeToolTip": "Controllers\\GeminiAIController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAmwCoAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T21:55:52.07Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mahmo\\Desktop\\gemini.Net\\WebApplication2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\mahmo\\Desktop\\gemini.Net\\WebApplication2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-23T19:25:00.181Z"
             }
           ]
         }
