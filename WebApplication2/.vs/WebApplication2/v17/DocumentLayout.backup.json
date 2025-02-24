@@ -1,11 +1,8 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\2073088\\source\\repos\\WebApplication2\\",
+  "WorkspaceRootPath": "C:\\Users\\mahmo\\Desktop\\gemini.Net\\WebApplication2\\",
   "Documents": [
     {
-<<<<<<< HEAD
-      "AbsoluteMoniker": "D:0:0:{AE63D567-DEE3-4112-B8D0-12E20C6713A8}|WebApplication2.csproj|c:\\users\\2073088\\source\\repos\\webapplication2\\model\\contentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-=======
       "AbsoluteMoniker": "D:0:0:{AE63D567-DEE3-4112-B8D0-12E20C6713A8}|WebApplication2.csproj|c:\\users\\mahmo\\desktop\\gemini.net\\webapplication2\\client\\geminiapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE63D567-DEE3-4112-B8D0-12E20C6713A8}|WebApplication2.csproj|solutionrelative:client\\geminiapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,31 +28,10 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE63D567-DEE3-4112-B8D0-12E20C6713A8}|WebApplication2.csproj|c:\\users\\mahmo\\desktop\\gemini.net\\webapplication2\\model\\contentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
->>>>>>> 474e19d (fctt)
       "RelativeMoniker": "D:0:0:{AE63D567-DEE3-4112-B8D0-12E20C6713A8}|WebApplication2.csproj|solutionrelative:model\\contentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE63D567-DEE3-4112-B8D0-12E20C6713A8}|WebApplication2.csproj|c:\\users\\2073088\\source\\repos\\webapplication2\\controllers\\geminiaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE63D567-DEE3-4112-B8D0-12E20C6713A8}|WebApplication2.csproj|solutionrelative:controllers\\geminiaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE63D567-DEE3-4112-B8D0-12E20C6713A8}|WebApplication2.csproj|c:\\users\\2073088\\source\\repos\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE63D567-DEE3-4112-B8D0-12E20C6713A8}|WebApplication2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE63D567-DEE3-4112-B8D0-12E20C6713A8}|WebApplication2.csproj|c:\\users\\2073088\\source\\repos\\webapplication2\\client\\geminiapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE63D567-DEE3-4112-B8D0-12E20C6713A8}|WebApplication2.csproj|solutionrelative:client\\geminiapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE63D567-DEE3-4112-B8D0-12E20C6713A8}|WebApplication2.csproj|c:\\users\\2073088\\source\\repos\\webapplication2\\webapplication2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{AE63D567-DEE3-4112-B8D0-12E20C6713A8}|WebApplication2.csproj|solutionrelative:webapplication2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE63D567-DEE3-4112-B8D0-12E20C6713A8}|WebApplication2.csproj|c:\\users\\2073088\\source\\repos\\webapplication2\\model\\promptrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE63D567-DEE3-4112-B8D0-12E20C6713A8}|WebApplication2.csproj|solutionrelative:model\\promptrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE63D567-DEE3-4112-B8D0-12E20C6713A8}|WebApplication2.csproj|c:\\users\\2073088\\source\\repos\\webapplication2\\model\\contentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE63D567-DEE3-4112-B8D0-12E20C6713A8}|WebApplication2.csproj|c:\\users\\mahmo\\desktop\\gemini.net\\webapplication2\\model\\contentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE63D567-DEE3-4112-B8D0-12E20C6713A8}|WebApplication2.csproj|solutionrelative:model\\contentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -66,12 +42,6 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
-          "SelectedChildIndex": 5,
-          "Children": [
-            {
-              "$type": "Document",
-=======
           "SelectedChildIndex": 2,
           "Children": [
             {
@@ -84,108 +54,83 @@
               "RelativeToolTip": "WebApplication2.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-02-23T19:20:10.957Z"
-            },
-            {
-              "$type": "Document",
->>>>>>> 474e19d (fctt)
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\2073088\\source\\repos\\WebApplication2\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\2073088\\source\\repos\\WebApplication2\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-<<<<<<< HEAD
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAWAAAA",
-=======
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
->>>>>>> 474e19d (fctt)
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T22:16:34.236Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 4,
-              "Title": "WebApplication2.http",
-              "DocumentMoniker": "C:\\Users\\2073088\\source\\repos\\WebApplication2\\WebApplication2.http",
-              "RelativeDocumentMoniker": "WebApplication2.http",
-              "ToolTip": "C:\\Users\\2073088\\source\\repos\\WebApplication2\\WebApplication2.http",
-              "RelativeToolTip": "WebApplication2.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-01-23T22:16:32.029Z",
+              "WhenOpened": "2025-02-23T19:20:10.957Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-=======
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mahmo\\Desktop\\gemini.Net\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mahmo\\Desktop\\gemini.Net\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T22:16:34.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
->>>>>>> 474e19d (fctt)
               "Title": "GeminiApiClient.cs",
-              "DocumentMoniker": "C:\\Users\\2073088\\source\\repos\\WebApplication2\\Client\\GeminiApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\mahmo\\Desktop\\gemini.Net\\WebApplication2\\Client\\GeminiApiClient.cs",
               "RelativeDocumentMoniker": "Client\\GeminiApiClient.cs",
-              "ToolTip": "C:\\Users\\2073088\\source\\repos\\WebApplication2\\Client\\GeminiApiClient.cs",
+              "ToolTip": "C:\\Users\\mahmo\\Desktop\\gemini.Net\\WebApplication2\\Client\\GeminiApiClient.cs",
               "RelativeToolTip": "Client\\GeminiApiClient.cs",
-<<<<<<< HEAD
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-=======
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
->>>>>>> 474e19d (fctt)
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T22:14:33.316Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "PromptRequest.cs",
-              "DocumentMoniker": "C:\\Users\\2073088\\source\\repos\\WebApplication2\\Model\\PromptRequest.cs",
+              "DocumentMoniker": "C:\\Users\\mahmo\\Desktop\\gemini.Net\\WebApplication2\\Model\\PromptRequest.cs",
               "RelativeDocumentMoniker": "Model\\PromptRequest.cs",
-              "ToolTip": "C:\\Users\\2073088\\source\\repos\\WebApplication2\\Model\\PromptRequest.cs",
+              "ToolTip": "C:\\Users\\mahmo\\Desktop\\gemini.Net\\WebApplication2\\Model\\PromptRequest.cs",
               "RelativeToolTip": "Model\\PromptRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T22:05:07.36Z"
+              "WhenOpened": "2025-01-23T22:05:07.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContentResponse.cs",
+              "DocumentMoniker": "C:\\Users\\mahmo\\Desktop\\gemini.Net\\WebApplication2\\Model\\ContentResponse.cs",
+              "RelativeDocumentMoniker": "Model\\ContentResponse.cs",
+              "ToolTip": "C:\\Users\\mahmo\\Desktop\\gemini.Net\\WebApplication2\\Model\\ContentResponse.cs",
+              "RelativeToolTip": "Model\\ContentResponse.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T22:03:56.237Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ContentResponse.cs",
-              "DocumentMoniker": "C:\\Users\\2073088\\source\\repos\\WebApplication2\\Model\\ContentResponse.cs",
-              "RelativeDocumentMoniker": "Model\\ContentResponse.cs",
-              "ToolTip": "C:\\Users\\2073088\\source\\repos\\WebApplication2\\Model\\ContentResponse.cs",
-              "RelativeToolTip": "Model\\ContentResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T22:03:56.237Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "ContentRequest.cs",
-              "DocumentMoniker": "C:\\Users\\2073088\\source\\repos\\WebApplication2\\Model\\ContentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\mahmo\\Desktop\\gemini.Net\\WebApplication2\\Model\\ContentRequest.cs",
               "RelativeDocumentMoniker": "Model\\ContentRequest.cs",
-              "ToolTip": "C:\\Users\\2073088\\source\\repos\\WebApplication2\\Model\\ContentRequest.cs",
+              "ToolTip": "C:\\Users\\mahmo\\Desktop\\gemini.Net\\WebApplication2\\Model\\ContentRequest.cs",
               "RelativeToolTip": "Model\\ContentRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T22:03:16.095Z"
+              "WhenOpened": "2025-01-23T22:03:16.095Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "GeminiAIController.cs",
-              "DocumentMoniker": "C:\\Users\\2073088\\source\\repos\\WebApplication2\\Controllers\\GeminiAIController.cs",
+              "DocumentMoniker": "C:\\Users\\mahmo\\Desktop\\gemini.Net\\WebApplication2\\Controllers\\GeminiAIController.cs",
               "RelativeDocumentMoniker": "Controllers\\GeminiAIController.cs",
-              "ToolTip": "C:\\Users\\2073088\\source\\repos\\WebApplication2\\Controllers\\GeminiAIController.cs",
+              "ToolTip": "C:\\Users\\mahmo\\Desktop\\gemini.Net\\WebApplication2\\Controllers\\GeminiAIController.cs",
               "RelativeToolTip": "Controllers\\GeminiAIController.cs",
-<<<<<<< HEAD
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
-=======
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
->>>>>>> 474e19d (fctt)
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T21:55:52.07Z",
               "EditorCaption": ""
@@ -200,7 +145,8 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-23T19:25:00.181Z"
+              "WhenOpened": "2025-02-23T19:25:00.181Z",
+              "EditorCaption": ""
             }
           ]
         }

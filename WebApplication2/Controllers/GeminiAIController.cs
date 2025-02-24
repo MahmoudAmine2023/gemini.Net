@@ -8,6 +8,7 @@ namespace WebApplication2.Controllers
     [Route("[controller]")]
     public class GeminiAIController : ControllerBase
     {
+<<<<<<< HEAD
         private readonly GeminiApiClient _geminiApiClient;
         
 
@@ -15,6 +16,9 @@ namespace WebApplication2.Controllers
         {
             _geminiApiClient = geminiApiClient;
         }
+=======
+        private readonly string _apiKey = ""; // Store securely in appsettings or env variables
+>>>>>>> 474e19d (fctt)
 
         [HttpPost("generate")]
         public async Task<IActionResult> GenerateContent([FromBody] PromptRequest request)
